@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hey, I'm Sk Inthiyaz!
 
-<!--
-**sk-inthiyaz/sk-inthiyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Full Stack Developer & AI Enthusiast with a strong drive to build scalable digital experiences and explore the limitless potential of technology.
 
-Here are some ideas to get you started:
+- 🔥 Skilled in **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
+- 🤖 Learning and building projects in **AI, Neural Networks, and LLMs**  
+- 🚛 Currently working on **TransLogicAI** – a smart, LLM-driven platform for seamless cargo and vehicle transportation  
+- 📚 Focused on expanding my expertise in **Large Language Models (LLMs)** and modern AI technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+**Frontend:**  
+React.js • HTML • CSS • Bootstrap • JavaScript  
+
+**Backend:**  
+Node.js • Express.js  
+
+**Database:**  
+MongoDB  
+
+**Languages:**  
+C • Java  
+
+---
+
+## 📊 GitHub Stats
+
+![Sk Inthiyaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sk-inthiyaz&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [skinthiyaz777@gmail.com](mailto:skinthiyaz777@gmail.com)  
+- 💼 LinkedIn: [sk-inthiyaz-00104a278](https://www.linkedin.com/in/sk-inthiyaz-00104a278/)
+
+---
+
+> **"Stay curious, keep building, and let your code shape the future."** 🚀
