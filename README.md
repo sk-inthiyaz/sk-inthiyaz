@@ -21,7 +21,7 @@ Node.js • Express.js
 MongoDB  
 
 **Languages:**  
-C • Java  
+C • Java • Python
 
 ---
 
