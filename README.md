@@ -12,7 +12,7 @@
 ## 🚀 Tech Stack
 
 **Frontend:**  
-React.js • HTML • CSS • Bootstrap • JavaScript  
+React.js • HTML • CSS • Tailwind • JavaScript  
 
 **Backend:**  
 Node.js • Express.js  
