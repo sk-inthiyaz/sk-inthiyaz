@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sk Inthiyaz</h1>
 <h3 align="center">AI/ML Enthusiast | MERN Stack Dev | Turning Code Into Scalable Impact | BE @ Osmania University</h3>
 
+![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
 🚀 Aspiring Software Engineer | Passionate Coder | AI/ML & Web Dev Enthusiast
