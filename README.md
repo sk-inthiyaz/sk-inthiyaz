@@ -19,7 +19,7 @@ I thrive on learning, collaborating, and pushing boundaries. Whether it’s writ
 
 💼 **Check out my work**: [My GitHub Repositories](https://github.com/sk-inthiyaz?tab=repositories)
 
-📫 **Reach me at**: skinthiyaz@gmail.com
+📫 **Reach me at**: skinthiyaz777@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
