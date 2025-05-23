@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sk Inthiyaz</h1>
 <h3 align="center">AI/ML Enthusiast | MERN Stack Dev | Turning Code Into Scalable Impact | BE @ Osmania University</h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=sk-inthiyaz&color=blue)
 
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
@@ -25,6 +25,21 @@ I thrive on learning, collaborating, and pushing boundaries. Whether it’s writ
 <p align="left">
 <a href="https://x.com/SkInthiyaz777?t=5BiTMFem1QDGdjT04Uz7zQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter X" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sk-inthiyaz-00104a278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">📊 Competitive Programming Profiles:</h3>
+<p align="left">
+  <a href="https://leetcode.com/u/inthiyaz_7/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="LeetCode" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://naukri.com/code360/profile/2504ae18-6b45-494b-ad2d-5a8d8bef65da" target="_blank">
+    <img src="https://ninjasfiles.s3.amazonaws.com/0000000000000723.jpg" alt="Coding Ninjas" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/skinthiyaz777" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
