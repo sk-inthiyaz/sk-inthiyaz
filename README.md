@@ -72,7 +72,7 @@ I thrive on learning, collaborating, and pushing boundaries. Whether it’s writ
 - 💻 **Frontend: React.js, HTML5, CSS3, JavaScript**
 - 🛠️ **Backend: Node.js, Express.js, Flask**
 - 🗃️ **Database: MongoDB**
-- 📌 **Languages: Python, C++, Java, JavaScript, C**
+- 📌 **Languages: Python, Java, JavaScript, C**
 
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sk-inthiyaz&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
