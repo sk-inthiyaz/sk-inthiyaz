@@ -71,7 +71,7 @@ I thrive on learning, collaborating, and pushing boundaries. Whether it’s writ
 - 📂 **Version Control (Git & GitHub)**
 - 💻 **Frontend: React.js, HTML5, CSS3, JavaScript**
 - 🛠️ **Backend: Node.js, Express.js, Flask**
-- 🗃️ **Database: MongoDB**
+- 🗃️ **Database: MongoDB**.
 - 📌 **Languages: Python, Java, JavaScript, C**
 
 <h3 align="left">GitHub Stats:</h3>
