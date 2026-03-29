@@ -95,11 +95,11 @@ End-to-end product thinking. React frontends, Express/Node APIs, MongoDB at the 
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=sk-inthiyaz&show_icons=true&theme=default&hide_border=true&title_color=1a1a1a&icon_color=888&text_color=555&bg_color=fafafa" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=sk-inthiyaz&layout=compact&theme=default&hide_border=true&title_color=1a1a1a&text_color=555&bg_color=fafafa" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sk-inthiyaz&show_icons=true&hide_border=true&theme=default" />
 
 <br><br>
 
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=sk-inthiyaz&theme=default&hide_border=true&background=fafafa&stroke=ddd&ring=1a1a1a&fire=e05c00&currStreakLabel=1a1a1a&sideLabels=555&dates=888" />
+<img width="65%" src="https://streak-stats.demolab.com/?user=sk-inthiyaz&hide_border=true&theme=default" />
 
 </div>
 
