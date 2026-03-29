@@ -1,81 +1,154 @@
-<h1 align="center">Hi 👋, I'm Sk Inthiyaz</h1>
-<h3 align="center">AI/ML Enthusiast | MERN Stack Dev | Turning Code Into Scalable Impact | BE @ Osmania University</h3>
+<div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=sk-inthiyaz&color=blue)
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║    ██╗███╗   ██╗████████╗██╗  ██╗██╗██╗   ██╗ █████╗ ███████╗    ║
+║    ██║████╗  ██║╚══██╔══╝██║  ██║██║╚██╗ ██╔╝██╔══██╗╚══███╔╝    ║
+║    ██║██╔██╗ ██║   ██║   ███████║██║ ╚████╔╝ ███████║  ███╔╝     ║
+║    ██║██║╚██╗██║   ██║   ██╔══██║██║  ╚██╔╝  ██╔══██║ ███╔╝      ║
+║    ██║██║ ╚████║   ██║   ██║  ██║██║   ██║   ██║  ██║███████╗    ║
+║    ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3d4dGVlbzZxOG1zeG81bm1vNGJwMDJodjJxc3l4dGxwYXd5am80bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="300px" align="right" alt="">
+# `> SK INTHIYAZ`
 
-🚀 Aspiring Software Engineer | Passionate Coder | AI/ML & Web Dev Enthusiast
+### AI/ML Engineer × Full-Stack Developer × Problem Solver
+#### BE @ Osmania University · Building things that matter
 
-Hi, I’m Sk Inthiyaz, a Bachelor of Engineering student driven by curiosity, creativity, and a strong passion for solving real-world problems through technology. I’m constantly building my skills in Artificial Intelligence, Machine Learning, and Full-Stack Web Development.
+[![Profile Views](https://komarev.com/ghpvc/?username=sk-inthiyaz&color=0d1117&style=flat-square&label=PROFILE+VIEWS)](https://github.com/sk-inthiyaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sk-inthiyaz-00104a278/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://x.com/SkInthiyaz777)
+[![Email](https://img.shields.io/badge/Email-Reach%20Me-D14836?style=flat-square&logo=gmail)](mailto:skinthiyaz777@gmail.com)
 
-I thrive on learning, collaborating, and pushing boundaries. Whether it’s writing clean code, building innovative solutions, or connecting with like-minded people, I’m always looking for ways to grow and make an impact.
+</div>
 
-🔍 **Currently Exploring:**
-- Deep Learning & Neural Networks
-- Real-time AI Applications
-- Full-Stack Development (React, Node.js, MongoDB)
-- Open Source Contributions
+---
 
-💼 **Check out my work**: [My GitHub Repositories](https://github.com/sk-inthiyaz?tab=repositories)
+<img align="right" width="280" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3d4dGVlbzZxOG1zeG81bm1vNGJwMDJodjJxc3l4dGxwYXd5am80bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" />
 
-📫 **Reach me at**: skinthiyaz777@gmail.com
+## `whoami`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/SkInthiyaz777?t=5BiTMFem1QDGdjT04Uz7zQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter X" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sk-inthiyaz-00104a278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+```python
+class SkInthiyaz:
+    name     = "Sk Inthiyaz"
+    role     = ["AI/ML Engineer", "MERN Stack Developer"]
+    degree   = "B.E. @ Osmania University"
+    location = "Hyderabad, India 🇮🇳"
+    
+    currently_learning = [
+        "Deep Learning & Neural Networks",
+        "Computer Vision (CNN, PyTorch)",
+        "Real-time AI Applications",
+    ]
+    
+    fun_fact = "I debug with coffee ☕ and ship with confidence 🚀"
+    
+    def goal(self):
+        return "Turn complex problems into elegant, scalable solutions."
+```
 
-<h3 align="left">📊 Competitive Programming Profiles:</h3>
-<p align="left">
-  <a href="https://leetcode.com/u/inthiyaz_7/" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="LeetCode" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://naukri.com/code360/profile/2504ae18-6b45-494b-ad2d-5a8d8bef65da" target="_blank">
-    <img src="https://ninjasfiles.s3.amazonaws.com/0000000000000723.jpg" alt="Coding Ninjas" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/profile/skinthiyaz777" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
-  </a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-</p>
+## `> ARSENAL`
 
-<h3 align="left">Top Skills:</h3>
+<div align="center">
 
-- 🔬 **Deep Learning (CNN, PyTorch)**
-- 🧠 **Neural Networks**
-- 🧰 **Convolutional Neural Networks (CNN)**
-- 🌐 **Full-Stack Development (MERN Stack)**
-- 💡 **Computer Vision**
-- ⚙️ **RESTful API Integration**
-- 🔐 **User Authentication**
-- 📂 **Version Control (Git & GitHub)**
-- 💻 **Frontend: React.js, HTML5, CSS3, JavaScript**
-- 🛠️ **Backend: Node.js, Express.js, Flask**
-- 🗃️ **Database: MongoDB**.
-- 📌 **Languages: Python, Java, JavaScript, C**
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sk-inthiyaz&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sk-inthiyaz&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sk-inthiyaz&" alt="GitHub Streak" /></p>
-<!-- Daily DSA Practice Log: 2026-03-02 | LeetCode #389 Find the Difference - Solved using XOR in Java (1ms, beats 99.80%) -->
+### AI / ML Stack
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Web Stack — MERN
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Infrastructure
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+---
+
+## `> WHAT I BUILD`
+
+```
+┌────────────────────────────────────────────────────────────────┐
+│                                                                │
+│   🤖  AI/ML SYSTEMS        ⚡  FULL-STACK APPS                │
+│   ────────────────         ─────────────────                   │
+│   · CNN-based CV models    · MERN stack web apps              │
+│   · Real-time inference    · RESTful API design               │
+│   · Neural architectures   · Auth & security layers           │
+│   · Deep learning pipelines· Scalable MongoDB schemas          │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> COMPETITIVE PROGRAMMING`
+
+<div align="center">
+
+| Platform | Profile | Status |
+|:---:|:---:|:---:|
+| 🟨 **LeetCode** | [inthiyaz_7](https://leetcode.com/u/inthiyaz_7/) | `Active · Daily Grind` |
+| 🟥 **HackerRank** | [skinthiyaz777](https://www.hackerrank.com/profile/skinthiyaz777) | `Certified` |
+| 🟧 **Coding Ninjas** | [Profile](https://naukri.com/code360/profile/2504ae18-6b45-494b-ad2d-5a8d8bef65da) | `Active` |
+
+> 💡 *LeetCode #389 — Find the Difference solved using XOR in Java · 1ms · beats 99.80%*
+
+</div>
+
+---
+
+## `> GITHUB METRICS`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sk-inthiyaz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=sk-inthiyaz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=sk-inthiyaz&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" />
+
+</div>
+
+---
+
+## `> CONNECT`
+
+<div align="center">
+
+```
+  If you're building something ambitious — let's talk.
+  I'm always open to collaborations, opportunities & good ideas.
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-inthiyaz-00104a278/)
+[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SkInthiyaz777)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skinthiyaz777@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sk-inthiyaz?tab=repositories)
+
+---
+
+*"Code is poetry. I'm still writing my masterpiece."*
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
