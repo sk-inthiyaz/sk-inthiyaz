@@ -3,7 +3,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=sk-inthiyaz&color=blue)
 
-<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3d4dGVlbzZxOG1zeG81bm1vNGJwMDJodjJxc3l4dGxwYXd5am80bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="300px" align="right" alt="">
 
 🚀 Aspiring Software Engineer | Passionate Coder | AI/ML & Web Dev Enthusiast
 
