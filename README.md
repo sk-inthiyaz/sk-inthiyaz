@@ -2,18 +2,19 @@
 
 <br>
 
-# Sk Inthiyaz
+# Sk *Inthiyaz*
 
-**AI/ML · Full-Stack · Problem Solver**
+`AI/ML · Full-Stack · Hyderabad, IN`
 
-*BE student at Osmania University, Hyderabad*
+Building systems that perceive, learn, and matter —
+at the intersection of computer vision and full-stack engineering.
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/–%20LinkedIn-white?style=flat-square&labelColor=white&color=white&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/sk-inthiyaz-00104a278/)
-[![Twitter](https://img.shields.io/badge/–%20Twitter-white?style=flat-square&logo=x&logoColor=000)](https://x.com/SkInthiyaz777)
-[![Email](https://img.shields.io/badge/–%20skinthiyaz777%40gmail.com-white?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:skinthiyaz777@gmail.com)
-[![LeetCode](https://img.shields.io/badge/–%20LeetCode-white?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/inthiyaz_7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-inthiyaz-00104a278/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/SkInthiyaz777)
+[![Email](https://img.shields.io/badge/skinthiyaz777@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:skinthiyaz777@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/inthiyaz_7/)
 
 <br>
 
@@ -21,23 +22,15 @@
 
 </div>
 
-<br>
+I write code that thinks. Between **deep learning pipelines** and **MERN stack applications**, I'm obsessed with building systems that don't just *work* — but *matter*.
 
-<img align="right" width="260" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3d4dGVlbzZxOG1zeG81bm1vNGJwMDJodjJxc3l4dGxwYXd5am80bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" />
-
-I write code that thinks.
-
-Between deep learning pipelines and MERN stack applications, I'm obsessed with the intersection of intelligence and usability — building systems that don't just *work*, but *matter*.
-
-Currently diving deep into **Computer Vision**, **Neural Architectures**, and **Real-time AI** while contributing to the open-source world and competing on LeetCode daily.
+Currently diving deep into **Computer Vision**, **Neural Architectures**, and **Real-time AI** while competing on LeetCode daily.
 
 > *"The best engineers aren't just coders — they're translators between human problems and machine solutions."*
 
-<br clear="right"/>
+<br>
 
 ---
-
-<br>
 
 ## Focus Areas
 
@@ -45,14 +38,16 @@ Currently diving deep into **Computer Vision**, **Neural Architectures**, and **
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 &nbsp; Artificial Intelligence
-Building systems that perceive, learn, and decide. From CNNs for visual tasks to deep learning pipelines — my AI work is grounded in PyTorch, real-world datasets, and a relentless curiosity about what machines can *understand*.
+**🧠 Artificial Intelligence**
+
+CNNs for visual tasks, deep learning pipelines, and real-world datasets — grounded in PyTorch and a relentless curiosity about what machines can *understand*.
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 &nbsp; Full-Stack Engineering
-End-to-end product thinking. React frontends, Express/Node APIs, MongoDB at the data layer — MERN is my canvas. I care about clean architecture, auth that doesn't break, and APIs that developers actually enjoy using.
+**🌐 Full-Stack Engineering**
+
+End-to-end product thinking. React frontends, Express/Node APIs, MongoDB data layers — clean architecture and APIs developers actually enjoy using.
 
 </td>
 </tr>
@@ -65,12 +60,12 @@ End-to-end product thinking. React frontends, Express/Node APIs, MongoDB at the 
 ## Craft
 
 ```
-  Languages     →   Java  ·  Python  ·  JavaScript  ·  C
-  AI / ML       →   PyTorch  ·  TensorFlow  ·  OpenCV  ·  NumPy
-  Web           →   React  ·  Node.js  ·  Express  ·  MongoDB
-  Infra         →   Git  ·  GitHub  ·  Flask  ·  REST APIs
-  Concepts      →   CNN  ·  Neural Networks  ·  Computer Vision
-                    Auth & Security  ·  Scalable Schemas
+  Languages   →   Java · Python · JavaScript · C
+  AI / ML     →   PyTorch · TensorFlow · OpenCV · NumPy
+  Web         →   React · Node.js · Express · MongoDB
+  Infra       →   Git · GitHub · Flask · REST APIs
+  Concepts    →   CNN · Neural Networks · Computer Vision
+                  Auth & Security · Scalable Schemas
 ```
 
 <br>
@@ -80,22 +75,22 @@ End-to-end product thinking. React frontends, Express/Node APIs, MongoDB at the 
 ## Competitive Programming
 
 | | Platform | Highlight |
-|---|---|---|
-| 🟨 | [**LeetCode**](https://leetcode.com/u/inthiyaz_7/) | Daily practice · *XOR solution ranked top 0.2%* |
+|:---:|:---|:---|
+| 🟨 | [**LeetCode** — inthiyaz_7](https://leetcode.com/u/inthiyaz_7/) | Daily practice · XOR solution ranked **top 0.2%** |
 | 🟧 | [**Coding Ninjas**](https://naukri.com/code360/profile/2504ae18-6b45-494b-ad2d-5a8d8bef65da) | Active |
-| 🟩 | [**HackerRank**](https://www.hackerrank.com/profile/skinthiyaz777) | Certified |
+| 🟩 | [**HackerRank** — skinthiyaz777](https://www.hackerrank.com/profile/skinthiyaz777) | Certified |
 
 <br>
 
 ---
 
-## Stats
+## GitHub Stats
 
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=sk-inthiyaz&show_icons=true&theme=default&hide_border=true&title_color=1a1a1a&icon_color=888&text_color=555&bg_color=fafafa" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sk-inthiyaz&show_icons=true&hide_border=true&theme=default" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-inthiyaz&layout=compact&hide_border=true&theme=default&title_color=1a1a1a&text_color=555&bg_color=fafafa" />
 
 <br><br>
 
@@ -108,8 +103,6 @@ End-to-end product thinking. React frontends, Express/Node APIs, MongoDB at the 
 ---
 
 <div align="center">
-
-<br>
 
 *Open to internships, collaborations, and conversations about things worth building.*
 
