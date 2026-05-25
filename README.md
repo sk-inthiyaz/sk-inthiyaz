@@ -1,31 +1,51 @@
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                   SK INTHIYAZ · GITHUB README               -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-<br>
 
-# Sk *Inthiyaz*
-`AI/ML · Full-Stack · Hyderabad, IN`
-
-Building systems that perceive, learn, and matter —
-at the intersection of computer vision and full-stack engineering.
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-inthiyaz-00104a278/)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/SkInthiyaz777)
-[![Email](https://img.shields.io/badge/skinthiyaz777@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:skinthiyaz777@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/inthiyaz_7/)
-[![Profile Views](https://komarev.com/ghpvc/?username=sk-inthiyaz&color=888&style=flat-square&label=profile+views)](https://github.com/sk-inthiyaz)
-
-<br>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=80&section=header&text=&fontSize=0)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,100:1a1a2e&height=200&section=header&text=Sk%20Inthiyaz&fontColor=e8e8e8&fontSize=60&fontAlignY=55&desc=AI%20·%20Vision%20·%20Full-Stack&descAlignY=75&descSize=16&descFontColor=888888&animation=fadeIn)
 
 </div>
 
 ---
 
-I write code that thinks. Between **deep learning pipelines** and **MERN stack applications**, I'm obsessed with building systems that don't just *work* — but *matter*.
+<div align="center">
 
-Currently diving deep into **Computer Vision**, **Neural Architectures**, and **Real-time AI** while competing on LeetCode daily.
+```
+╔══════════════════════════════════════════════════╗
+║  🧠  Making machines that see, think, and build  ║
+║  📍  Hyderabad, IN  ·  B.Tech AI/ML @ NGIT       ║
+║  🎯  Targeting 10+ LPA · Graduating 2027         ║
+╚══════════════════════════════════════════════════╝
+```
+
+[![LinkedIn](https://img.shields.io/badge/─%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-inthiyaz-00104a278/)
+[![X](https://img.shields.io/badge/─%20@SkInthiyaz777-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SkInthiyaz777)
+[![Gmail](https://img.shields.io/badge/─%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skinthiyaz777@gmail.com)
+[![LeetCode](https://img.shields.io/badge/─%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/inthiyaz_7/)
+[![HackerRank](https://img.shields.io/badge/─%20HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/skinthiyaz777)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sk-inthiyaz&color=555&style=flat-square&label=profile+views)
+
+</div>
+
+<br>
+
+---
+
+## `whoami`
+
+```python
+class Inthiyaz:
+    role        = "AI/ML Engineer + Full-Stack Developer"
+    obsession   = "Systems that see → think → act"
+    stack       = ["PyTorch", "React", "Node.js", "OpenCV", "MongoDB"]
+    currently   = ["Computer Vision", "Neural Architectures", "DSA grind"]
+    philosophy  = "Don't just write code. Build things that matter."
+```
+
+I exist at the overlap of **deep learning** and **product engineering** — the place where a model trained on forensic imagery can power a real detective tool, or where a pothole detected by a CNN can trigger a civic alert in real-time.
 
 > *"The best engineers aren't just coders — they're translators between human problems and machine solutions."*
 
@@ -33,73 +53,119 @@ Currently diving deep into **Computer Vision**, **Neural Architectures**, and **
 
 ---
 
-## Focus Areas
+## `./projects --flagship`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🧠 Artificial Intelligence**
-
-CNNs for visual tasks, deep learning pipelines, and real-world datasets — grounded in PyTorch and a relentless curiosity about what machines can *understand*.
-
-</td>
-<td width="50%" valign="top">
-
-**🌐 Full-Stack Engineering**
-
-End-to-end product thinking. React frontends, Express/Node APIs, MongoDB data layers — clean architecture and APIs developers actually enjoy using.
-
-</td>
-</tr>
-</table>
-
+<details>
+<summary><b>🔍 SceneSolver — AI Forensic Intelligence Platform</b></summary>
 <br>
-
----
-
-## Craft
 
 ```
-  Languages   →   Java · Python · JavaScript · C
-  AI / ML     →   PyTorch · TensorFlow · OpenCV · NumPy
-  Web         →   React · Node.js · Express · MongoDB
-  Infra       →   Git · GitHub · Flask · REST APIs
-  Concepts    →   CNN · Neural Networks · Computer Vision
-                  Auth & Security · Scalable Schemas
+  ┌─ Architecture ────────────────────────────────────┐
+  │  YOLOv8  ──┐                                      │
+  │  CLIP    ──┼──► Ensemble Engine ──► Scene Report  │
+  │  BLIP    ──┤                                      │
+  │  BART    ──┘                                      │
+  └───────────────────────────────────────────────────┘
+```
+
+An AI system that processes crime scene imagery through a multi-model ensemble — detecting objects, captioning scenes, and generating structured forensic reports. Real inference, real pipeline.
+
+**Stack:** `Python` `YOLOv8` `CLIP` `BLIP` `BART` `Flask`
+
+</details>
+
+<details>
+<summary><b>⚡ Coding Hub — Competitive Programming Platform</b></summary>
+<br>
+
+```
+  User submits code
+       │
+       ▼
+  Docker Sandbox ──► Isolated Execution ──► Results
+       │
+       ▼
+  Gemini 2.0 Flash ──► Code Review + Hints
+```
+
+A full-stack competitive programming arena with sandboxed code execution and AI-powered hints — built because existing platforms felt limiting.
+
+**Stack:** `React` `Node.js` `Docker` `MongoDB` `Gemini 2.0 Flash`
+
+</details>
+
+<details>
+<summary><b>🛣️ AI Pothole Detection — Civic Tech Microservices</b></summary>
+<br>
+
+```
+  Road Image ──► Custom CNN ──► Severity Score
+                     │
+                     ▼
+              Microservice API ──► Civic Alert System
+```
+
+Custom-trained CNN detecting and classifying road damage severity, feeding into a microservices backend designed for real municipal deployment.
+
+**Stack:** `PyTorch` `OpenCV` `Flask` `REST APIs` `Custom CNN`
+
+</details>
+
+<br>
+
+---
+
+## `cat skills.txt`
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  LANGUAGES    Java · Python · JavaScript · C            │
+│                                                         │
+│  AI / ML      PyTorch · TensorFlow · OpenCV · NumPy     │
+│               CNN · Neural Nets · Computer Vision       │
+│               YOLOv8 · CLIP · BLIP · BART               │
+│                                                         │
+│  WEB          React · Node.js · Express · MongoDB        │
+│               REST APIs · Auth & Security               │
+│                                                         │
+│  INFRA        Git · GitHub · Docker · Flask             │
+│               Microservices · Scalable Schemas          │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
 <br>
 
 ---
 
-## Competitive Programming
+## `./competitive --leaderboard`
 
-| | Platform | Highlight |
-|:---:|:---|:---|
-| 🟨 | [**LeetCode** — inthiyaz_7](https://leetcode.com/u/inthiyaz_7/) | Daily practice · XOR solution ranked **top 0.2%** |
-| 🟧 | [**Coding Ninjas**](https://naukri.com/code360/profile/2504ae18-6b45-494b-ad2d-5a8d8bef65da) | Active |
-| 🟩 | [**HackerRank** — skinthiyaz777](https://www.hackerrank.com/profile/skinthiyaz777) | Certified |
+| Rank | Platform | Handle | Highlight |
+|:---:|:---|:---|:---|
+| 🥇 | **LeetCode** | [inthiyaz_7](https://leetcode.com/u/inthiyaz_7/) | Daily grind · XOR solution ranked **top 0.2%** |
+| 🥈 | **HackerRank** | [skinthiyaz777](https://www.hackerrank.com/profile/skinthiyaz777) | Multi-domain certified |
+| 🥉 | **Coding Ninjas** | [Profile →](https://naukri.com/code360/profile/2504ae18-6b45-494b-ad2d-5a8d8bef65da) | Active problem solver |
 
 <br>
 
 ---
 
-## GitHub Stats
+## `git log --stat`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sk-inthiyaz&show_icons=true&theme=default&hide_border=true&title_color=1a1a1a&icon_color=888&text_color=555&bg_color=fafafa&include_all_commits=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-inthiyaz&layout=compact&hide_border=true&theme=default&title_color=1a1a1a&text_color=555&bg_color=fafafa" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sk-inthiyaz&show_icons=true&theme=dark&hide_border=true&title_color=e8e8e8&icon_color=aaaaaa&text_color=888888&bg_color=0d0d0d&include_all_commits=true&count_private=true&rank_icon=github" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-inthiyaz&layout=compact&hide_border=true&theme=dark&title_color=e8e8e8&text_color=888888&bg_color=0d0d0d" />
 
 <br><br>
 
-<img width="65%" src="https://streak-stats.demolab.com/?user=sk-inthiyaz&hide_border=true&theme=default" />
+<img width="68%" src="https://streak-stats.demolab.com/?user=sk-inthiyaz&hide_border=true&theme=dark&background=0d0d0d&ring=888888&fire=cccccc&currStreakLabel=e8e8e8&sideLabels=888888&dates=555555" />
 
 <br><br>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sk-inthiyaz&bg_color=fafafa&color=1a1a1a&line=888888&point=1a1a1a&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sk-inthiyaz&bg_color=0d0d0d&color=888888&line=555555&point=cccccc&area=true&hide_border=true&area_color=1a1a2e)
 
 </div>
 
@@ -109,12 +175,19 @@ End-to-end product thinking. React frontends, Express/Node APIs, MongoDB data la
 
 <div align="center">
 
-*Open to internships, collaborations, and conversations about things worth building.*
+```
+╔─────────────────────────────────────────────────────╗
+│                                                     │
+│   Open to internships, collaborations, and          │
+│   conversations about things worth building.        │
+│                                                     │
+│   [ skinthiyaz777@gmail.com ]                       │
+│                                                     │
+╚─────────────────────────────────────────────────────╝
+```
 
-**[View my repositories →](https://github.com/sk-inthiyaz?tab=repositories)**
+**[View Repositories →](https://github.com/sk-inthiyaz?tab=repositories)**
 
-<br>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,100:0d0d0d&height=120&section=footer)
 
 </div>
