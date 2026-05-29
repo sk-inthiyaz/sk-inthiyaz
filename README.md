@@ -13,11 +13,11 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════╗
-║  🧠  Making machines that see, think, and build  ║
-║  📍  Hyderabad, IN  ·  B.Tech AI/ML @ NGIT       ║
-║  🎯  Computer Science(AI&ML) · Graduating 2027         ║
-╚══════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════╗
+║  🧠  Making machines that see, think, and build     ║
+║  📍  Hyderabad, IN  ·  B.Tech AI/ML @ NGIT          ║
+║  🎯  Computer Science(AI&ML) · Graduating 2027      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 [![LinkedIn](https://img.shields.io/badge/─%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-inthiyaz-00104a278/)
