@@ -16,7 +16,7 @@
 ╔══════════════════════════════════════════════════╗
 ║  🧠  Making machines that see, think, and build  ║
 ║  📍  Hyderabad, IN  ·  B.Tech AI/ML @ NGIT       ║
-║  🎯  Targeting 10+ LPA · Graduating 2027         ║
+║  🎯  Computer Science(AI&ML) · Graduating 2027         ║
 ╚══════════════════════════════════════════════════╝
 ```
 
